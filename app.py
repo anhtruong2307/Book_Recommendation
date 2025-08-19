@@ -6,5 +6,5 @@ try:
     a = 3/0
 
 except Exception as e:
-    logging.infor()
+    logging.info(e)
     raise AppException(e,sys) from e
