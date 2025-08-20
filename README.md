@@ -1,5 +1,15 @@
 # Book_Recommendation
 
+## Workflow
+
+- config.yaml
+- entity
+- config/configuration.py
+- components
+- pipeline
+- main.py
+- app.py
+
 # How to run?
 #### STEP:
 
@@ -20,6 +30,6 @@ conda activate books
 
 ### STEP 2- Install the requirements
 ```bash
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 
